@@ -1,0 +1,9 @@
+{
+  "name": "browserify-ngnyc",
+  "version": "1.0.0",
+  "author": "Joe Alves <databentpx@gmail.com> (http://www.github.com/joedotjs)",
+  "dependencies": {
+    "babelify": "^6.1.2",
+    "browserify-ngannotate": "^1.0.1"
+  }
+}
